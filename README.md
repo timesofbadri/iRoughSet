@@ -37,6 +37,10 @@ Rough Sets Based Matrix Approaches with Dynamic Attribute Variation in
 Set-valued Information Systems. International Journal of Approximate Reasoning, 
 vol. 53, no. 4, pp. 620-635, 2012."
 
+"Junbo Zhang, Tianrui Li, Da Ruan, Dun Liu,
+Neighborhood Rough Sets for Dynamic Data Mining.
+International Journal of Intelligent Systems, vol. 27, no. 4, pp. 317-342, 2012."
+
 4. Contact Information
 ----------------------
 
