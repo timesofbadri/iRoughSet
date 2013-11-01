@@ -22,8 +22,8 @@ nrsl    : neighborhood rough set library. (deprecated)
 
 svrsl   : set-valued rough set library. (TBA)
 
-3. License & Credit
--------------------
+3. License & Copyright
+----------------------
 
 The iRoughSet source code is distributed with Apache License 2.0. The
 copyright is held by Southwest Jiaotong University. 
