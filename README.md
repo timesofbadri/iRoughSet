@@ -15,8 +15,11 @@ We have tested iRoughSet on the following system(s):
 The iRoughSet distribution includes the following directories:
 
 docs    : iRoughSet publications.
+
 crsl    : composite rough set library. 
+
 nrsl    : neighborhood rough set library. (deprecated) 
+
 svrsl   : set-valued rough set library. (TBA)
 
 3. License & Credit
