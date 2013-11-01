@@ -1,0 +1,18 @@
+//============================================================================
+// Name        : crsl-0.7.cpp
+// Author      : Junbo Zhang
+// Version     : crsl-0.8.1
+// Created on  : Aug. 26, 2012 at Home (Atlanta, GA 30338, USA)
+// Modified on : Jun. 26, 2013 at Home (Ma On Shan, Hong Kong)
+// Copyright   : Your copyright notice
+// Description : Calculate Approximations based on IncCRS
+//============================================================================
+
+/*
+ * author:   Junbo Zhang
+ * homepage: http://cs.gsu.edu/~jbzhang/
+ * e-mail:   JunboZhang@163.com
+ * paper:    Junbo Zhang, Tianrui Li, et al., 
+ *           Composite rough sets for dynamic data mining, 
+ *           Information Sciences, submitted.
+ */
