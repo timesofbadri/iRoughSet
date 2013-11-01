@@ -1,4 +1,5 @@
 iRoughSet
+version: 0.8.1
 Last revised Nov. 1, 2013
 
 1. What is iRoughSet
@@ -15,6 +16,8 @@ We have tested iRoughSet on the following system(s):
 The iRoughSet distribution includes the following directories:
 
 docs    : iRoughSet publications.
+
+data_gen: data generator. 
 
 crsl    : composite rough set library. 
 
