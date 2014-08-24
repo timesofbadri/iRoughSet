@@ -52,7 +52,7 @@ International Journal of Intelligent Systems, vol. 27, no. 4, pp. 317-342, 2012.
 
 It was written by 
     Junbo Zhang, junbozhang86@163.com
-    The website is: http://cs.gsu.edu/~jbzhang/project/iroughset.html
+    The website is: <http://sist.swjtu.edu.cn/ccit/project/iroughset.html>
 
 End
 
